@@ -1,0 +1,6 @@
+output
+node_modules
+*.onnx*
+*.wav
+*.mp3
+.DS_STORE
